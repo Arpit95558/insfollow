@@ -10,7 +10,7 @@ Best Tool For Increase Instagram Follower.
 
 ## How to Install in Termux
 
-`$ pkg up -y`
+`$ pkg up -y`## @arpit_singh_21.09
 
 `$ pkg install openssl-tool`
 
